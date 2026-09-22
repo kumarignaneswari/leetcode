@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kumarignaneswari/leetcode/tree/master/0002-add-two-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kumarignaneswari/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kumarignaneswari/leetcode/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kumarignaneswari/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kumarignaneswari/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
