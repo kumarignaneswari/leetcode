@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kumarignaneswari/leetcode/tree/master/0036-valid-sudoku) |
+| [1096-brace-expansion-ii](https://github.com/kumarignaneswari/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarignaneswari/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/kumarignaneswari/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarignaneswari/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
 |  |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/kumarignaneswari/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarignaneswari/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kumarignaneswari/leetcode/tree/master/0051-n-queens) |
+| [1096-brace-expansion-ii](https://github.com/kumarignaneswari/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -52,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kumarignaneswari/leetcode/tree/master/0036-valid-sudoku) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kumarignaneswari/leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kumarignaneswari/leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
